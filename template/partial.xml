@@ -1,0 +1,33 @@
+<bulto><ci>{INTEGRATIONCODE}</ci>
+    <nif>{NIF}</nif>
+    <ccc>{ACCOUNTINGCODE}</ccc>
+    <servicio>{SERVICE}</servicio>
+    <producto>{PRODUCTS}</producto>
+    <total_bultos>{TOTALPACKAGES}</total_bultos>
+    <total_kilos>{KILOS}</total_kilos>
+    <pesoBulto>{WEIGHT}</pesoBulto>
+    <observaciones>{OBSERVATIONS}</observaciones>
+    <referencia_expedicion>{EXPEDITIONREF}</referencia_expedicion>
+    <ref_bulto>{REFPACKAGES}</ref_bulto>
+    <clavePortes>{KEY}</clavePortes>
+    <clavePod>{KEYVALUE}</clavePod>
+    <claveReembolso>{REFUNDKEY}</claveReembolso>
+    <valorReembolso>{REFUNDVALUE}</valorReembolso>
+    <nombre_consignatario>{FULLNAME}</nombre_consignatario>
+    <direccion_consignatario>{STREET}</direccion_consignatario>
+    <tipoVia_consignatario>{TYPESTREET}</tipoVia_consignatario>
+    <tNumVia_consignatario>{STREETNUMBER}</tNumVia_consignatario>
+    <numVia_consignatario>{STREETNUMBER1}</numVia_consignatario>
+    <escalera_consignatario>{STAIRS}</escalera_consignatario>
+    <piso_consignatario>{FLOOR}</piso_consignatario>
+    <puerta_consignatario>{DOOR}</puerta_consignatario>
+    <poblacion_consignatario>{TOWN}</poblacion_consignatario>
+    <codPostal_consignatario>{POSTALCODE}</codPostal_consignatario>
+    <pais_consignatario>{CODECOUNTRY}</pais_consignatario>
+    <email_consignatario>{EMAIL}</email_consignatario>
+    <telefono_consignatario>{PHONE}</telefono_consignatario>
+    <tipo_mercancia></tipo_mercancia>
+    <clave_aduana_origen></clave_aduana_origen>
+    <clave_aduana_destino></clave_aduana_destino>
+    <valor_declarado></valor_declarado>
+</bulto>
